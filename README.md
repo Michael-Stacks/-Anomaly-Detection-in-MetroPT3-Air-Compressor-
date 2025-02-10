@@ -13,4 +13,6 @@ IsolationForest detects anomalies by isolating observations through random parti
 Local Outlier Factor (LOF) identifies anomalies in a moving time window using nearest neighbors.
 📊 Results
 The project provides visualizations highlighting detected anomalies, comparing both methods.
+Link to the dataset on kaggle: https://www.kaggle.com/datasets/anshtanwar/metro-train-dataset
+
 ![TP01_Industrie_4 0 ](https://github.com/user-attachments/assets/324d736a-9ca7-40c3-ac49-ac6bcc4c015a)
